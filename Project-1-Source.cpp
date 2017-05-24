@@ -15,7 +15,7 @@ void display(void);
 
 int main()
 {
-    int choice, v;
+    int choice;
 
     do {
         printf("Menu:\n");
