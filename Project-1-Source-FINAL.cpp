@@ -17,6 +17,8 @@ void displayData(void);
 
 int main()
 {
+    srand(time(NULL));
+    
     int choice;
 
     create();
