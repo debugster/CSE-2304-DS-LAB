@@ -65,7 +65,7 @@ void create(void)
 {
     int n;
 
-    printf("How many values do you want to store ? : ");
+    printf("How many values do you want to store primarily ? : ");
     scanf("%d", &n);
 
     for (int i = 1; i <= n; i++) {
